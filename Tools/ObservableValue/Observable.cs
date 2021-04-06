@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 namespace AsserTOOLres {
+	[System.Serializable]
 	public class Observable<T> {
 		#region ===== ===== CALLBACK ===== =====
 
